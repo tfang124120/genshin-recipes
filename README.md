@@ -8,3 +8,5 @@ What I learned:
 - Created links to other folders that contains the recipes
 - Linking img sources to provide pictures of the dish
 - Creating links, unordered and ordered lists
+
+Recipes+images were taken from Genshin Impact
